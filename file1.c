@@ -4,7 +4,11 @@
 
 // Function to add two numbers
 
+<<<<<<< HEAD
 int sum(int num1, int num2) {
+=======
+int add(int num1, int num2) {
+>>>>>>> branch1
 
     return num1 + num2;
 
@@ -30,9 +34,7 @@ int main() {
 
 
 
-    // Call the sum function and store the result
-
-    result = sum(number1, number2);
+>>>>>>> branch1
 
 
 
